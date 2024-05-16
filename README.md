@@ -1,1 +1,1 @@
-![pdf](./pdfs/'Beginning Functional JavaScript - Anto Aravinth - 2012.pdf')
+[![pdf](./pdfs/'Beginning Functional JavaScript - Anto Aravinth - 2012.pdf')]
